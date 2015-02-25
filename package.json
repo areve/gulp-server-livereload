@@ -1,5 +1,5 @@
 {
-  "name": "gulp-server-livereload",
+  "name": "gulp-server-livereload-areve",
   "version": "1.0.2",
   "description": "Gulp plugin to run a local webserver with livereload enabled via socket.io",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hiddentao/gulp-server-livereload.git"
+    "url": "https://github.com/areve/gulp-server-livereload-areve.git"
   },
   "keywords": [
     "gulpplugin",
